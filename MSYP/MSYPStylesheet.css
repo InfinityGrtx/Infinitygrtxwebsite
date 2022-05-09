@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+}
+h1 {
+    display: block;
+    color: white;
+    text-align: center;
+}
+#Rules {
+    color: green;
+    display: block;
+    text-align: center;
+}
+
+p {
+    display: block;
+    color: orangered;
+    text-align: center;
+}
