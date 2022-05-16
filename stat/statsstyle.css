@@ -1,0 +1,44 @@
+html {
+    background-color: grey;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    color:ghostwhite;
+}
+
+h2 {
+    display:block;
+    text-align: center;
+    color:antiquewhite;
+}
+
+#item {
+    border-color: black;
+    border-style: solid;
+    display: inline;
+    padding: 10;
+    margin: 5;
+}
+
+#stat-name {
+    display: inline-block;
+    color: azure;
+    
+}
+
+#stat-red {
+    display: inline-block;
+    color: darkred;
+}
+
+#stat-green{
+    display: inline-block;
+    color: green;
+}
+
+#stat-lgrey {
+    display: inline-block;
+    color: lightslategray;
+}
